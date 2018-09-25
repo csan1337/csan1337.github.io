@@ -1,0 +1,19 @@
+body {
+    background: wheat;
+    color: crimson;
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+    color: black;
+}
+
+nav li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px
+    background: white;
+    text-decoration: none;
+
+}
